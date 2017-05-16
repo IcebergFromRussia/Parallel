@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/MPI.dir/main.cpp.o CMakeFiles/MPI.dir/c1.cpp.o CMakeFiles/MPI.dir/c2.cpp.o CMakeFiles/MPI.dir/с4.cpp.o CMakeFiles/MPI.dir/c44.cpp.o  -o MPI 
